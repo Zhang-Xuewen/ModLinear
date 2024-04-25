@@ -74,7 +74,7 @@ Obtain the linearized discrete A, B matrices for the continuous ODE.
 
 Obtain the discrete model from the continuous model, utilizing `control` package.
 
-### 4. continuous_to_discrete
+### 5. plot_matrix
 
 Plot a matrix.
 
