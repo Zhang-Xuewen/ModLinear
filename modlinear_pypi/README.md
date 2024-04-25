@@ -4,6 +4,8 @@ A wrapped package to linearize the nonlinear continuous/discrete model. Includin
 
 If you have questions, remarks, technical issues etc. feel free to use the issues page of this repository. I am looking forward to your feedback and the discussion.
 
+> Github project: [link](https://github.com/QiYuan-Zhang/ModLinear)
+>
 > Introduction: [link](https://qiyuan-zhang.github.io/my-toolbox/2024/04/25/Developed-modlinear.html)
 
 --- 
@@ -20,7 +22,7 @@ This package operates within the Python framework.
 
 ### 2. Usage
 
-- Download the [*modlinear*](https://github.com/QiYuan-Zhang/DeePCtools/tree/8dbc2458966214bf9885f4d622e20c3b840641e2/deepctools) file and save it to your project directory.
+- Download the [*modlinear*](https://github.com/QiYuan-Zhang/ModLinear) file and save it to your project directory.
 
 - Or install using pip
 
@@ -92,9 +94,9 @@ Note: This procedure is applicable to all systems.
 
 ## III. Tutorial 
 
-There is a [tutorial]() example to illustrate how to use the *modlinear* to linearize nonlinear models.
+There is a [tutorial](https://github.com/QiYuan-Zhang/ModLinear/blob/main/tutorial.py) example to illustrate how to use the *modlinear* to linearize nonlinear models.
 
 
 ## License
 
-The project is released under the APACHE license. See [LICENSE](LICENSE) for details.
+The project is released under the APACHE license. See [LICENSE](https://github.com/QiYuan-Zhang/ModLinear/blob/main/LICENSE) for details.
