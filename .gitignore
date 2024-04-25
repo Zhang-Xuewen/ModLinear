@@ -1,0 +1,12 @@
+*.pt
+*.pdf
+*.png
+*.eps
+*.svg
+*.mat
+*.npy
+*.asv
+*.txt
+*.xml
+.idea/
+__pycache__/
