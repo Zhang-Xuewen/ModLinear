@@ -46,6 +46,6 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/QiYuan-Zhang/DeePCtools"
-Issues = "https://github.com/QiYuan-Zhang/DeePCtools/issues"
+Homepage = "https://github.com/QiYuan-Zhang/ModLinear"
+Issues = "https://github.com/QiYuan-Zhang/ModLinear/issues"
 Introduction = "https://qiyuan-zhang.github.io/my-toolbox/2024/04/25/Developed-modlinear.html"
