@@ -8,7 +8,7 @@ If you have questions, remarks, technical issues etc. feel free to use the issue
 >
 > PyPI: [link](https://pypi.org/project/modlinear/)
 >
-> Introduction: [link](https://qiyuan-zhang.github.io/my-toolbox/2024/04/25/Developed-modlinear.html)
+> Introduction: [link](https://Zhang-Xuewen.github.io/my-toolbox/2024/04/25/Developed-modlinear.html)
 
 --- 
 ## I. How to use
