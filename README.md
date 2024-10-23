@@ -9,6 +9,8 @@ If you have questions, remarks, technical issues etc. feel free to use the issue
 > PyPI: [link](https://pypi.org/project/modlinear/)
 >
 > Introduction: [link](https://Zhang-Xuewen.github.io/my-toolbox/2024/04/25/Developed-modlinear.html)
+>
+> Please be sure to explicitly **acknowledge** its use if you incorporate it into your work.
 
 --- 
 ## I. How to use
